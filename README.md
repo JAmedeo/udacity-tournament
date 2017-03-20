@@ -12,6 +12,9 @@ cd udacity-tournament/FSND-Virtual-Machine/vagrant
 vagrant up
 vagrant ssh
 cd /vagrant/tournament
+psql
+\i tournament.sql
+\q
 python tournament_test.py
 ```
 
