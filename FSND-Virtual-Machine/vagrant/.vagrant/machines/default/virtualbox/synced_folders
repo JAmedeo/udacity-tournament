@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/joe/Desktop/dev/udacity/sql-project/FSND-Virtual-Machine/vagrant","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/joe/Desktop/dev/udacity/sql-project/udacity-tournament/FSND-Virtual-Machine/vagrant","disabled":false,"__vagrantfile":true}}}
